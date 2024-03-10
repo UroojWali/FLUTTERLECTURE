@@ -14,5 +14,8 @@ void main (){
    }
    else  if ( percentage >= 60){ 
     print ("C");
+   }  
+   else { 
+    print ( " fail");
    }
   }
